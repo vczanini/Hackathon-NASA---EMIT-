@@ -1,7 +1,7 @@
 # comments on this code were made by @rainbowcrack
 # create a temporary access key on AWS S3 Access server to extract real-time data. Access an example: 
 # s3://lp-prod-protected/EMITL2ARFL.001/EMIT_L2A_RFL_001_20231005T044255_2327803_027/EMIT_L2A_RFL_001_20231005T044255_2327803_027.nc
-# importing libraries like bitstreaming files, JSON notation and HTTP request in url into a CSV file
+# import libraries like bitstreaming files, JSON notation and HTTP request in url into a CSV file
 
 import argparse
 import base64
